@@ -3,7 +3,7 @@
  * An IR detector/demodulator must be connected to the input RECV_PIN.
  * Version 0.1 February, 2016
  * Author: Elliot Godzich
- * http://www.github.com/blueskymonster
+ * https://github.com/blueskymonster/arduino-special-for-mp3-remote-receiver
  * 
  * Requires https://github.com/z3t0/Arduino-IRremote to be installed.
  * NOTE: As of Arduino 1.6.7, the "RobotIRremote" must be removed
